@@ -1,0 +1,14 @@
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\bin\Debug\net6.0\lab 5 oop.exe
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\bin\Debug\net6.0\lab 5 oop.deps.json
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\bin\Debug\net6.0\lab 5 oop.runtimeconfig.json
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\bin\Debug\net6.0\lab 5 oop.dll
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\bin\Debug\net6.0\lab 5 oop.pdb
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.AssemblyInfoInputs.cache
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.AssemblyInfo.cs
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.csproj.CoreCompileInputs.cache
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.dll
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\refint\lab 5 oop.dll
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.pdb
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\lab 5 oop.genruntimeconfig.cache
+C:\Users\maksb\source\repos\lab 5 oop\lab 5 oop\obj\Debug\net6.0\ref\lab 5 oop.dll
